@@ -1,0 +1,18 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:17.12.2016 22:09:36
+
+newmtl default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\CG Model\燧石火枪\source\Gun_Diff.jpg
+	map_Kd D:\CG Model\燧石火枪\source\Gun_Diff.jpg
+	map_bump D:\CG Model\燧石火枪\source\Gun_NM.jpg
+	bump D:\CG Model\燧石火枪\source\Gun_NM.jpg
